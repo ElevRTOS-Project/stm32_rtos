@@ -1,0 +1,14 @@
+# 빌드 산출물 폴더 제외
+Debug/
+Release/
+*/Debug/
+*/Release/
+
+# 실행 및 디버그 설정 임시 파일
+*.launch
+
+# 운영체제 및 에디터 임시 파일
+.DS_Store
+Thumbs.db
+*.swp
+*~
